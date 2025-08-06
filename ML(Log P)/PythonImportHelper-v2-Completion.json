@@ -1,0 +1,687 @@
+[
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "statsmodels.api",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "statsmodels.api",
+        "description": "statsmodels.api",
+        "detail": "statsmodels.api",
+        "documentation": {}
+    },
+    {
+        "label": "OLS",
+        "importPath": "statsmodels.regression.linear_model",
+        "description": "statsmodels.regression.linear_model",
+        "isExtraImport": true,
+        "detail": "statsmodels.regression.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "OLS",
+        "importPath": "statsmodels.regression.linear_model",
+        "description": "statsmodels.regression.linear_model",
+        "isExtraImport": true,
+        "detail": "statsmodels.regression.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "signal",
+        "importPath": "scipy",
+        "description": "scipy",
+        "isExtraImport": true,
+        "detail": "scipy",
+        "documentation": {}
+    },
+    {
+        "label": "sparse",
+        "importPath": "scipy",
+        "description": "scipy",
+        "isExtraImport": true,
+        "detail": "scipy",
+        "documentation": {}
+    },
+    {
+        "label": "spsolve",
+        "importPath": "scipy.sparse.linalg",
+        "description": "scipy.sparse.linalg",
+        "isExtraImport": true,
+        "detail": "scipy.sparse.linalg",
+        "documentation": {}
+    },
+    {
+        "label": "curve_fit",
+        "importPath": "scipy.optimize",
+        "description": "scipy.optimize",
+        "isExtraImport": true,
+        "detail": "scipy.optimize",
+        "documentation": {}
+    },
+    {
+        "label": "curve_fit",
+        "importPath": "scipy.optimize",
+        "description": "scipy.optimize",
+        "isExtraImport": true,
+        "detail": "scipy.optimize",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestRegressor",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "mean_absolute_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "RegressionAnalyzer",
+        "importPath": "regression",
+        "description": "regression",
+        "isExtraImport": true,
+        "detail": "regression",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "seaborn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "seaborn",
+        "description": "seaborn",
+        "detail": "seaborn",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "send_file",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "MassSpecAnalyzer",
+        "importPath": "analyzer",
+        "description": "analyzer",
+        "isExtraImport": true,
+        "detail": "analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_improved_partition_coefficient",
+        "kind": 2,
+        "importPath": "Main.Utils.Calculation accuracy",
+        "description": "Main.Utils.Calculation accuracy",
+        "peekOfCode": "def calculate_improved_partition_coefficient(mobile_peak_area, stationary_peak_area, \n                                           phase_ratio, temperature=298.15):\n    \"\"\"\n    개선된 분할 계수 계산 (온도 보정 포함)\n    \"\"\"\n    # 기본 분할 계수\n    K = (stationary_peak_area / mobile_peak_area) * phase_ratio\n    # 온도 보정 팩터 (van't Hoff equation 기반)\n    temp_correction = np.exp((298.15 - temperature) / (298.15 * temperature) * 1000)\n    # 활동도 계수 보정 (농도 의존성)",
+        "detail": "Main.Utils.Calculation accuracy",
+        "documentation": {}
+    },
+    {
+        "label": "DataParser",
+        "kind": 6,
+        "importPath": "Main.Utils.data_parser",
+        "description": "Main.Utils.data_parser",
+        "peekOfCode": "class DataParser:\n    \"\"\"질량분석 데이터 파싱 클래스\"\"\"\n    def __init__(self):\n        # 당 개수 매핑 테이블\n        self.sugar_mapping = {\n            'A': 0, 'M': 1, 'D': 2, \n            'T': 3, 'Q': 4, 'P': 5\n        }\n    def parse_name(self, name: str) -> Tuple[str, str, Optional[int], Optional[int], Optional[str]]:\n        \"\"\"",
+        "detail": "Main.Utils.data_parser",
+        "documentation": {}
+    },
+    {
+        "label": "multi_gaussian_model",
+        "kind": 2,
+        "importPath": "Main.Utils.peak fitting model",
+        "description": "Main.Utils.peak fitting model",
+        "peekOfCode": "def multi_gaussian_model(x, *params):\n    \"\"\"\n    다중 가우시안 모델 (오버랩 피크 처리 개선)\n    \"\"\"\n    n_peaks = len(params) // 3\n    result = np.zeros_like(x)\n    for i in range(n_peaks):\n        amplitude = params[3*i]\n        center = params[3*i + 1]\n        sigma = params[3*i + 2]",
+        "detail": "Main.Utils.peak fitting model",
+        "documentation": {}
+    },
+    {
+        "label": "fit_overlapping_peaks",
+        "kind": 2,
+        "importPath": "Main.Utils.peak fitting model",
+        "description": "Main.Utils.peak fitting model",
+        "peekOfCode": "def fit_overlapping_peaks(x_data, y_data, initial_peaks):\n    \"\"\"\n    오버랩된 피크들에 대한 개선된 피팅\n    \"\"\"\n    # 초기 파라미터 추정 개선\n    initial_params = []\n    bounds_lower = []\n    bounds_upper = []\n    for peak_idx in initial_peaks:\n        # amplitude 추정",
+        "detail": "Main.Utils.peak fitting model",
+        "documentation": {}
+    },
+    {
+        "label": "RegressionAnalyzer",
+        "kind": 6,
+        "importPath": "Main.Utils.regression",
+        "description": "Main.Utils.regression",
+        "peekOfCode": "class RegressionAnalyzer:\n    \"\"\"선형 회귀분석 수행 및 이상치 탐지 클래스\"\"\"\n    def __init__(self, r_squared_threshold: float = 0.99):\n        self.r_squared_threshold = r_squared_threshold\n        self.regression_results: List[Dict] = []\n    def perform_regression(\n        self,\n        group_data: pd.DataFrame,\n        min_points: int = 2\n    ) -> Optional[Dict]:",
+        "detail": "Main.Utils.regression",
+        "documentation": {}
+    },
+    {
+        "label": "ImprovedRegressionModel",
+        "kind": 6,
+        "importPath": "Main.Utils.regression",
+        "description": "Main.Utils.regression",
+        "peekOfCode": "class ImprovedRegressionModel:\n    def __init__(self):\n        self.scaler = StandardScaler()\n        self.model = RandomForestRegressor(\n            n_estimators=100,\n            max_depth=10,\n            min_samples_split=5,\n            random_state=42\n        )\n    def prepare_features(self, molecular_descriptors, experimental_conditions):",
+        "detail": "Main.Utils.regression",
+        "documentation": {}
+    },
+    {
+        "label": "GangliodisideAnalysisPipeline",
+        "kind": 6,
+        "importPath": "Main.Utils.regression",
+        "description": "Main.Utils.regression",
+        "peekOfCode": "class GangliodisideAnalysisPipeline:\n    def __init__(self):\n        self.preprocessor = improved_data_preprocessing\n        self.peak_detector = improved_peak_detection\n        self.peak_fitter = fit_overlapping_peaks\n        self.regression_model = ImprovedRegressionModel()\n    def analyze(self, raw_data, experimental_conditions):\n        \"\"\"\n        전체 분석 파이프라인 실행\n        \"\"\"",
+        "detail": "Main.Utils.regression",
+        "documentation": {}
+    },
+    {
+        "label": "improved_peak_detection",
+        "kind": 2,
+        "importPath": "Main.Utils.regression",
+        "description": "Main.Utils.regression",
+        "peekOfCode": "def improved_peak_detection(spectrum, height_threshold=0.05, prominence=0.02, width_range=(2, 50)):\n    \"\"\"\n    개선된 피크 검출 알고리즘\n    \"\"\"\n    # 노이즈 제거를 위한 스무딩\n    smoothed = signal.savgol_filter(spectrum, window_length=5, polyorder=2)\n    # 적응적 베이스라인 보정\n    baseline = signal.medfilt(smoothed, kernel_size=51)\n    corrected_spectrum = smoothed - baseline\n    # 피크 검출 with 개선된 파라미터",
+        "detail": "Main.Utils.regression",
+        "documentation": {}
+    },
+    {
+        "label": "multi_gaussian_model",
+        "kind": 2,
+        "importPath": "Main.Utils.regression",
+        "description": "Main.Utils.regression",
+        "peekOfCode": "def multi_gaussian_model(x, *params):\n    \"\"\"\n    다중 가우시안 모델 (오버랩 피크 처리 개선)\n    \"\"\"\n    n_peaks = len(params) // 3\n    result = np.zeros_like(x)\n    for i in range(n_peaks):\n        amplitude = params[3*i]\n        center = params[3*i + 1]\n        sigma = params[3*i + 2]",
+        "detail": "Main.Utils.regression",
+        "documentation": {}
+    },
+    {
+        "label": "fit_overlapping_peaks",
+        "kind": 2,
+        "importPath": "Main.Utils.regression",
+        "description": "Main.Utils.regression",
+        "peekOfCode": "def fit_overlapping_peaks(x_data, y_data, initial_peaks):\n    \"\"\"\n    오버랩된 피크들에 대한 개선된 피팅\n    \"\"\"\n    # 초기 파라미터 추정 개선\n    initial_params = []\n    bounds_lower = []\n    bounds_upper = []\n    for peak_idx in initial_peaks:\n        # amplitude 추정",
+        "detail": "Main.Utils.regression",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_improved_partition_coefficient",
+        "kind": 2,
+        "importPath": "Main.Utils.regression",
+        "description": "Main.Utils.regression",
+        "peekOfCode": "def calculate_improved_partition_coefficient(mobile_peak_area, stationary_peak_area, \n                                           phase_ratio, temperature=298.15):\n    \"\"\"\n    개선된 분할 계수 계산 (온도 보정 포함)\n    \"\"\"\n    # 기본 분할 계수\n    K = (stationary_peak_area / mobile_peak_area) * phase_ratio\n    # 온도 보정 팩터 (van't Hoff equation 기반)\n    temp_correction = np.exp((298.15 - temperature) / (298.15 * temperature) * 1000)\n    # 활동도 계수 보정 (농도 의존성) - 필요시 농도에 따른 보정",
+        "detail": "Main.Utils.regression",
+        "documentation": {}
+    },
+    {
+        "label": "improved_data_preprocessing",
+        "kind": 2,
+        "importPath": "Main.Utils.regression",
+        "description": "Main.Utils.regression",
+        "peekOfCode": "def improved_data_preprocessing(raw_spectra, reference_standards=None):\n    \"\"\"\n    개선된 데이터 전처리 파이프라인\n    \"\"\"\n    processed_spectra = []\n    for spectrum in raw_spectra:\n        # 1. 노이즈 제거\n        denoised = signal.wiener(spectrum)\n        # 2. 베이스라인 보정\n        baseline_corrected = baseline_correction_als(denoised)",
+        "detail": "Main.Utils.regression",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_with_internal_standard",
+        "kind": 2,
+        "importPath": "Main.Utils.regression",
+        "description": "Main.Utils.regression",
+        "peekOfCode": "def normalize_with_internal_standard(spectrum, reference_standards):\n    \"\"\"\n    내부 표준물질을 사용한 스펙트럼 정규화\n    \"\"\"\n    if reference_standards is None or len(reference_standards) == 0:\n        return spectrum / np.max(spectrum)\n    # 참조 표준의 평균 피크 강도 계산\n    ref_intensity = np.mean([np.max(ref) for ref in reference_standards])\n    # 현재 스펙트럼의 최대 강도로 정규화\n    spectrum_max = np.max(spectrum)",
+        "detail": "Main.Utils.regression",
+        "documentation": {}
+    },
+    {
+        "label": "correct_instrumental_drift",
+        "kind": 2,
+        "importPath": "Main.Utils.regression",
+        "description": "Main.Utils.regression",
+        "peekOfCode": "def correct_instrumental_drift(spectrum, drift_factor=0.001):\n    \"\"\"\n    기기 드리프트 보정\n    \"\"\"\n    # 선형 드리프트 보정 (시간에 따른 신호 감소 보정)\n    time_points = np.arange(len(spectrum))\n    drift_correction = 1 + drift_factor * (time_points / len(spectrum))\n    return spectrum * drift_correction\ndef baseline_correction_als(spectrum, lam=1e4, p=0.01, niter=10):\n    \"\"\"",
+        "detail": "Main.Utils.regression",
+        "documentation": {}
+    },
+    {
+        "label": "baseline_correction_als",
+        "kind": 2,
+        "importPath": "Main.Utils.regression",
+        "description": "Main.Utils.regression",
+        "peekOfCode": "def baseline_correction_als(spectrum, lam=1e4, p=0.01, niter=10):\n    \"\"\"\n    Asymmetric Least Squares 베이스라인 보정\n    \"\"\"\n    L = len(spectrum)\n    D = sparse.diags([1, -2, 1], [0, -1, -2], shape=(L, L-2))\n    w = np.ones(L)\n    for _ in range(niter):\n        W = sparse.spdiags(w, 0, L, L)\n        Z = W + lam * D.dot(D.transpose())",
+        "detail": "Main.Utils.regression",
+        "documentation": {}
+    },
+    {
+        "label": "detect_outliers_iqr",
+        "kind": 2,
+        "importPath": "Main.Utils.regression",
+        "description": "Main.Utils.regression",
+        "peekOfCode": "def detect_outliers_iqr(data):\n    \"\"\"\n    IQR 방법을 사용한 이상치 검출\n    \"\"\"\n    Q1 = np.percentile(data, 25)\n    Q3 = np.percentile(data, 75)\n    IQR = Q3 - Q1\n    lower_bound = Q1 - 1.5 * IQR\n    upper_bound = Q3 + 1.5 * IQR\n    return [i for i, value in enumerate(data) ",
+        "detail": "Main.Utils.regression",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_confidence_intervals",
+        "kind": 2,
+        "importPath": "Main.Utils.regression",
+        "description": "Main.Utils.regression",
+        "peekOfCode": "def calculate_confidence_intervals(predicted_values, confidence_threshold=0.95):\n    \"\"\"\n    신뢰 구간 계산\n    \"\"\"\n    from scipy import stats\n    # 표준 오차 추정\n    std_error = np.std(predicted_values) / np.sqrt(len(predicted_values))\n    # t-분포를 사용한 신뢰 구간 계산\n    t_value = stats.t.ppf((1 + confidence_threshold) / 2, len(predicted_values) - 1)\n    margin_error = t_value * std_error",
+        "detail": "Main.Utils.regression",
+        "documentation": {}
+    },
+    {
+        "label": "validate_results",
+        "kind": 2,
+        "importPath": "Main.Utils.regression",
+        "description": "Main.Utils.regression",
+        "peekOfCode": "def validate_results(predicted_values, experimental_values, confidence_threshold=0.95):\n    \"\"\"\n    결과 검증 및 품질 관리\n    \"\"\"\n    # 통계적 메트릭 계산\n    r2 = r2_score(experimental_values, predicted_values)\n    rmse = np.sqrt(mean_squared_error(experimental_values, predicted_values))\n    mae = mean_absolute_error(experimental_values, predicted_values)\n    # 이상치 검출\n    residuals = experimental_values - predicted_values",
+        "detail": "Main.Utils.regression",
+        "documentation": {}
+    },
+    {
+        "label": "RuleApplier",
+        "kind": 6,
+        "importPath": "Main.Utils.rules",
+        "description": "Main.Utils.rules",
+        "peekOfCode": "class RuleApplier:\n    \"\"\"규칙 적용 클래스\"\"\"\n    def __init__(self, data: pd.DataFrame, regression_analyzer: RegressionAnalyzer):\n        \"\"\"\n        Args:\n            data: 분석할 데이터\n            regression_analyzer: 회귀분석 수행 객체\n        \"\"\"\n        self.data = data\n        self.regression_analyzer = regression_analyzer",
+        "detail": "Main.Utils.rules",
+        "documentation": {}
+    },
+    {
+        "label": "Visualizer",
+        "kind": 6,
+        "importPath": "Main.Utils.visualization",
+        "description": "Main.Utils.visualization",
+        "peekOfCode": "class Visualizer:\n    \"\"\"질량분석 데이터 시각화 클래스\"\"\"\n    def __init__(self):\n        self.dpi = 150\n        self.scatter_figsize = (16, 8)\n        self.histogram_figsize = (12, 6)\n    def create_scatter_plot(self, \n                          data: pd.DataFrame,\n                          regression_results: List[Dict]) -> str:\n        \"\"\"",
+        "detail": "Main.Utils.visualization",
+        "documentation": {}
+    },
+    {
+        "label": "plt.rcParams['font.family']",
+        "kind": 5,
+        "importPath": "Main.Utils.visualization",
+        "description": "Main.Utils.visualization",
+        "peekOfCode": "plt.rcParams['font.family'] = 'DejaVu Sans'\nplt.rcParams['axes.unicode_minus'] = False\nclass Visualizer:\n    \"\"\"질량분석 데이터 시각화 클래스\"\"\"\n    def __init__(self):\n        self.dpi = 150\n        self.scatter_figsize = (16, 8)\n        self.histogram_figsize = (12, 6)\n    def create_scatter_plot(self, \n                          data: pd.DataFrame,",
+        "detail": "Main.Utils.visualization",
+        "documentation": {}
+    },
+    {
+        "label": "plt.rcParams['axes.unicode_minus']",
+        "kind": 5,
+        "importPath": "Main.Utils.visualization",
+        "description": "Main.Utils.visualization",
+        "peekOfCode": "plt.rcParams['axes.unicode_minus'] = False\nclass Visualizer:\n    \"\"\"질량분석 데이터 시각화 클래스\"\"\"\n    def __init__(self):\n        self.dpi = 150\n        self.scatter_figsize = (16, 8)\n        self.histogram_figsize = (12, 6)\n    def create_scatter_plot(self, \n                          data: pd.DataFrame,\n                          regression_results: List[Dict]) -> str:",
+        "detail": "Main.Utils.visualization",
+        "documentation": {}
+    },
+    {
+        "label": "MassSpecAnalyzer",
+        "kind": 6,
+        "importPath": "Main.analyzer",
+        "description": "Main.analyzer",
+        "peekOfCode": "class MassSpecAnalyzer:\n    \"\"\"질량분석 데이터 자동 분석 클래스\"\"\"\n    def __init__(self, data):\n        self.data = data.copy()\n        self.results = []\n        self.regression_results = []\n        self.groups = {}\n        self.priority_groups = {\n            \"GD_series\": [\"GD1+dHex\", \"GD1\", \"GD2\", \"GD3\"],\n            \"GT3_series\": [\"GM3\", \"GD3\", \"GT3\"],",
+        "detail": "Main.analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "plt.rcParams['font.family']",
+        "kind": 5,
+        "importPath": "Main.analyzer",
+        "description": "Main.analyzer",
+        "peekOfCode": "plt.rcParams['font.family'] = 'DejaVu Sans'\nplt.rcParams['axes.unicode_minus'] = False\nclass MassSpecAnalyzer:\n    \"\"\"질량분석 데이터 자동 분석 클래스\"\"\"\n    def __init__(self, data):\n        self.data = data.copy()\n        self.results = []\n        self.regression_results = []\n        self.groups = {}\n        self.priority_groups = {",
+        "detail": "Main.analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "plt.rcParams['axes.unicode_minus']",
+        "kind": 5,
+        "importPath": "Main.analyzer",
+        "description": "Main.analyzer",
+        "peekOfCode": "plt.rcParams['axes.unicode_minus'] = False\nclass MassSpecAnalyzer:\n    \"\"\"질량분석 데이터 자동 분석 클래스\"\"\"\n    def __init__(self, data):\n        self.data = data.copy()\n        self.results = []\n        self.regression_results = []\n        self.groups = {}\n        self.priority_groups = {\n            \"GD_series\": [\"GD1+dHex\", \"GD1\", \"GD2\", \"GD3\"],",
+        "detail": "Main.analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "Main.app",
+        "description": "Main.app",
+        "peekOfCode": "def index():\n    \"\"\"메인 페이지\"\"\"\n    return render_template(\"index.html\")\n@app.route(\"/analyze\", methods=[\"POST\"])\ndef analyze():\n    \"\"\"CSV 파일 분석\"\"\"\n    try:\n        # 파일 업로드 검증\n        if \"file\" not in request.files:\n            return jsonify({\"error\": \"파일이 없습니다.\"}), 400",
+        "detail": "Main.app",
+        "documentation": {}
+    },
+    {
+        "label": "analyze",
+        "kind": 2,
+        "importPath": "Main.app",
+        "description": "Main.app",
+        "peekOfCode": "def analyze():\n    \"\"\"CSV 파일 분석\"\"\"\n    try:\n        # 파일 업로드 검증\n        if \"file\" not in request.files:\n            return jsonify({\"error\": \"파일이 없습니다.\"}), 400\n        file = request.files[\"file\"]\n        if file.filename == \"\":\n            return jsonify({\"error\": \"파일이 선택되지 않았습니다.\"}), 400\n        if not file.filename.endswith(\".csv\"):",
+        "detail": "Main.app",
+        "documentation": {}
+    },
+    {
+        "label": "download",
+        "kind": 2,
+        "importPath": "Main.app",
+        "description": "Main.app",
+        "peekOfCode": "def download(filename):\n    \"\"\"결과 파일 다운로드\"\"\"\n    try:\n        # 보안 검증\n        if \"..\" in filename or \"/\" in filename or \"\\\\\" in filename:\n            return jsonify({\"error\": \"잘못된 파일명입니다.\"}), 400\n        filepath = os.path.join(app.config[\"RESULTS_FOLDER\"], filename)\n        if not os.path.exists(filepath):\n            return jsonify({\"error\": \"파일을 찾을 수 없습니다.\"}), 404\n        return send_file(",
+        "detail": "Main.app",
+        "documentation": {}
+    },
+    {
+        "label": "debug_info",
+        "kind": 2,
+        "importPath": "Main.app",
+        "description": "Main.app",
+        "peekOfCode": "def debug_info(filename):\n    \"\"\"디버그 정보 조회 (Phase 2 추가)\"\"\"\n    try:\n        # 디버그 파일명 생성\n        debug_filename = filename.replace('.csv', '_debug.csv')\n        filepath = os.path.join(app.config[\"RESULTS_FOLDER\"], debug_filename)\n        if not os.path.exists(filepath):\n            return jsonify({\"error\": \"디버그 파일을 찾을 수 없습니다.\"}), 404\n        # 디버그 정보 읽기\n        debug_df = pd.read_csv(filepath)",
+        "detail": "Main.app",
+        "documentation": {}
+    },
+    {
+        "label": "read_csv_with_header_detection",
+        "kind": 2,
+        "importPath": "Main.app",
+        "description": "Main.app",
+        "peekOfCode": "def read_csv_with_header_detection(filepath):\n    \"\"\"CSV 파일 읽기 (헤더 자동 감지)\"\"\"\n    try:\n        print(f\"파일 읽기 시도: {filepath}\")\n        # 파일 존재 여부 확인\n        if not os.path.exists(filepath):\n            print(f\"파일이 존재하지 않습니다: {filepath}\")\n            return None\n        # 파일 크기 확인\n        if os.path.getsize(filepath) == 0:",
+        "detail": "Main.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Main.app",
+        "description": "Main.app",
+        "peekOfCode": "app = Flask(__name__)\napp.config.from_object(Config)\n# Create directories if not exists\nos.makedirs(app.config[\"UPLOAD_FOLDER\"], exist_ok=True)\nos.makedirs(app.config[\"RESULTS_FOLDER\"], exist_ok=True)\n@app.route(\"/\")\ndef index():\n    \"\"\"메인 페이지\"\"\"\n    return render_template(\"index.html\")\n@app.route(\"/analyze\", methods=[\"POST\"])",
+        "detail": "Main.app",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "Main.config",
+        "description": "Main.config",
+        "peekOfCode": "class Config:\n    DEBUG = True\n    PORT = 5000\n    UPLOAD_FOLDER = \"uploads\"\n    RESULTS_FOLDER = \"results\"\ndef multi_gaussian_model(x, *params):\n    \"\"\"\n    다중 가우시안 모델 (오버랩 피크 처리 개선)\n    \"\"\"\n    n_peaks = len(params) // 3",
+        "detail": "Main.config",
+        "documentation": {}
+    },
+    {
+        "label": "multi_gaussian_model",
+        "kind": 2,
+        "importPath": "Main.config",
+        "description": "Main.config",
+        "peekOfCode": "def multi_gaussian_model(x, *params):\n    \"\"\"\n    다중 가우시안 모델 (오버랩 피크 처리 개선)\n    \"\"\"\n    n_peaks = len(params) // 3\n    result = np.zeros_like(x)\n    for i in range(n_peaks):\n        amplitude = params[3*i]\n        center = params[3*i + 1]\n        sigma = params[3*i + 2]",
+        "detail": "Main.config",
+        "documentation": {}
+    },
+    {
+        "label": "fit_overlapping_peaks",
+        "kind": 2,
+        "importPath": "Main.config",
+        "description": "Main.config",
+        "peekOfCode": "def fit_overlapping_peaks(x_data, y_data, initial_peaks):\n    \"\"\"\n    오버랩된 피크들에 대한 개선된 피팅\n    \"\"\"\n    # 초기 파라미터 추정 개선\n    initial_params = []\n    bounds_lower = []\n    bounds_upper = []\n    for peak_idx in initial_peaks:\n        # amplitude 추정",
+        "detail": "Main.config",
+        "documentation": {}
+    }
+]
